@@ -19,7 +19,7 @@ Este trabajo corresponde a las actividades prácticas de las semanas 1 a 4 de la
 
 ## 🔗 Enlaces a Scripts en GEE
 
-- [Ejercicio 1 - Composiciones a color zonas aledañas a Bogotá D.C.](https://code.earthengine.google.com/...)
+- [Ejercicio 1 - Composiciones a color en la ciudad de Bogotá D.C., Colombia](https://github.com/RicardoMartinezS/GEE-Remote-Sensing/blob/main/Notebooks/1_Color_Composition.ipynb)
 
 ## 📄 Reporte Técnico
 
