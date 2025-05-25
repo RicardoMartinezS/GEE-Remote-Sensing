@@ -20,6 +20,12 @@ Este trabajo corresponde a las actividades prácticas de las semanas 1 a 4 de la
 ## 🔗 Enlaces a Scripts en GEE
 
 - [Ejercicio 1 - Composiciones a color en la ciudad de Bogotá D.C., Colombia](https://github.com/RicardoMartinezS/GEE-Remote-Sensing/blob/main/Notebooks/1_Color_Composition.ipynb)
+- [Ejercicio 2 - Calculo de estadisticas zonales con NDVI de poligonos aleatorios en la localidad de Usme ciudad de Bogotá D.C., Colombia](https://github.com/RicardoMartinezS/GEE-Remote-Sensing/blob/main/Notebooks/2_NDVI_Landsat_calculation.ipynb)
+- [Ejercicio 3 - Calculo de estadisticas zonales con NDVI de poligonos clasificados por K-means en la localidad de Usme ciudad de Bogotá D.C., Colombia](https://github.com/RicardoMartinezS/GEE-Remote-Sensing/blob/main/Notebooks/3_NDVI_Sentinel_calculation.ipynb)
+- [Ejercicio 4 - Comparativa de indices de vegetación a través de series de tiempo en la localidad de Usme ciudad de Bogotá D.C., Colombia](https://github.com/RicardoMartinezS/GEE-Remote-Sensing/blob/main/Notebooks/4_Three_vegetation_indices.ipynb)
+- [Ejercicio 5 - Analisis de cambios de la vegetación en el Amazonas](https://github.com/RicardoMartinezS/GEE-Remote-Sensing/blob/main/Notebooks/5_Change_Detection.ipynb)
+- [Ejercicio 6 - Extracción de Modelo digital de elevación para Colombia](https://github.com/RicardoMartinezS/GEE-Remote-Sensing/blob/main/Notebooks/6_Raster_to_polygons_Elevation.ipynb)
+- [Ejercicio 7-  Generación de un GIF a partir de imagenes satelitales en Maicao, La Guajira, Colombia](https://github.com/RicardoMartinezS/GEE-Remote-Sensing/blob/main/Notebooks/7_generation%20of%20a%20multitemporal%20gif.ipynb)
 
 ## 📄 Reporte Técnico
 
